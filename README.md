@@ -7,7 +7,7 @@
   <a href="lykajanecabillan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FDACAC&logoColor=white&labelColor=FD7979&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/lyka-jane-cabillan-2b1409401" target="_blank">
+  <a href="https://www.linkedin.com/in/lyka-jane-cabillan-2b1409401/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FDACAC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=FDACAC&logoColor=white&labelColor=FD7979&style=for-the-badge" height="25" alt="discord logo"  />
