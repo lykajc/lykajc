@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/lykajane.cabillan.7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FDACAC&logoColor=white&labelColor=FD7979&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/yeon_hyeeri/" target="_blank">
+  <a href="https://www.instagram.com/yeon_hyeeri/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FDACAC&logoColor=white&labelColor=FD7979&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
